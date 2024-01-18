@@ -42,3 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfpineram&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/lucasfpineram?tab=repositories)   
   
+![dino](https://github.com/lucasfpineram/lucasfpineram/assets/65287829/39c48c7f-ba27-400c-8aba-382360351d09)

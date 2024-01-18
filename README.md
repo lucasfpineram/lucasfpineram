@@ -40,4 +40,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="70px" alt="git">
     
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfpineram&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/lucasfpineram?tab=repositories)   
+  
+[![lucasfpineram GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfpineram&hide=prs,issues,contribs&theme=highcontrast&count_private=true&show_icons=true&icon_color=ffff00&include_all_commits=true)](https://github.com/lucasfpineram?tab=repositories)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasfpineram&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=F4FF00&border=F4FF00&fire=F4FF00)](https://git.io/streak-stats)
 
